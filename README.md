@@ -4,7 +4,7 @@ GIS shapefiles of tropical alpine delimitation using bioclim data based on the m
 The data corresponds to the following article: 
 Martha Kandziora, Juan M. de Gorospe, Luciana Salomon, Diana L. A. Vásquez, Maria Pinilla Vargas, Filip Kolář, Petr Sklenář, Roswitha Schmickl (under review). The ghost of past climate acting on present-day plant diversity: lessons from a climate-based delimitation of the tropical alpine ecosystem.
 
-## tropical alpine delimitation of the present and during a reconstruction of the last glacial maximum
+## tropical alpine delimitation of the present and during reconstructions of the last glacial maximum
 
 **current vs MPI**
 <p float="left">
