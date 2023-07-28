@@ -16,13 +16,14 @@ Martha Kandziora, Juan M. de Gorospe, Luciana Salomon, Diana L. A. Vásquez, Mar
 
 **current vs MIROC**
 <p float="left">
-  <img src="https://github.com/mkandziora/tropicalAlpineDelimitation/blob/main/images/current_vs_MIROC/tropalpAndes.png" width="100%" />
+  <img src="https://github.com/mkandziora/tropicalAlpineDelimitation/blob/main/images/current_vs_MIROC/tropAlpAndes.png" width="100%" />
   <img src="https://github.com/mkandziora/tropicalAlpineDelimitation/blob/main/images/current_vs_MIROC/tropalpAsia.png" width="100%" /> 
     <img src="https://github.com/mkandziora/tropicalAlpineDelimitation/blob/main/images/current_vs_MIROC/Afroalpine.png" width="100%" /> 
 </p>
+
+
+
 <!---
-
-
 <p float="left">
   <img src="https://github.com/mkandziora/tropicalAlpineDelimitation/blob/main/tropalpAndes-3-10_11--3-10_3-50-300__comb10--3-10_11--3-10_3-50-300__Chelsa_mpi-esm_overlap_area.png" width="40%" />
   <img src="https://github.com/mkandziora/tropicalAlpineDelimitation/blob/main/tropalpAndes-3-10_11--3-10_3-50-300__comb10--3-10_11--3-10_3-50-300__Chelsa_chelsa_miroc_esm_overlap_area.png" width="40%" /> 
