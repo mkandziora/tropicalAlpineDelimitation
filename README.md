@@ -4,8 +4,18 @@ GIS shapefiles of tropical alpine delimitation using bioclim data based on the m
 The data corresponds to the following article: 
 Martha Kandziora, Juan M. de Gorospe, Luciana Salomon, Diana L. A. Vásquez, Maria Pinilla Vargas, Filip Kolář, Petr Sklenář, Roswitha Schmickl (under review). The ghost of past climate acting on present-day plant diversity: lessons from a climate-based delimitation of the tropical alpine ecosystem.
 
-## tropical alpine delimitation of the present and during two different reconstructions of the last glacial maximum
-**current vs MPI and current vs MIROC**
+## tropical alpine delimitation of the present and during a reconstruction of the last glacial maximum
+
+**current vs MPI**
+<p float="left">
+  <img src="https://github.com/mkandziora/tropicalAlpineDelimitation/blob/main/tropalpAndes.png" width="100%" />
+  <img src="https://github.com/mkandziora/tropicalAlpineDelimitation/blob/main/tropalpAsia.png" width="100%" /> 
+    <img src="https://github.com/mkandziora/tropicalAlpineDelimitation/blob/main/Afroalpine.png" width="100%" /> 
+</p>
+
+
+<!---
+
 
 <p float="left">
   <img src="https://github.com/mkandziora/tropicalAlpineDelimitation/blob/main/tropalpAndes-3-10_11--3-10_3-50-300__comb10--3-10_11--3-10_3-50-300__Chelsa_mpi-esm_overlap_area.png" width="40%" />
@@ -30,3 +40,4 @@ Martha Kandziora, Juan M. de Gorospe, Luciana Salomon, Diana L. A. Vásquez, Mar
 
 <img src="https://github.com/mkandziora/tropicalAlpineDelimitation/blob/main/Afroalpine-3-10_11--3-10_3-50-300__comb10--3-10_11--3-10_3-50-300__Chelsa_chelsa_miroc_esm_overlap_area.png" alt= “” width="40%">
 </p>
+-->
