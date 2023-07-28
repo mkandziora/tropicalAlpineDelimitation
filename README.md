@@ -8,12 +8,18 @@ Martha Kandziora, Juan M. de Gorospe, Luciana Salomon, Diana L. A. Vásquez, Mar
 
 **current vs MPI**
 <p float="left">
-  <img src="https://github.com/mkandziora/tropicalAlpineDelimitation/blob/main/images/tropalpAndes.png" width="100%" />
-  <img src="https://github.com/mkandziora/tropicalAlpineDelimitation/blob/main/images/tropalpAsia.png" width="100%" /> 
-    <img src="https://github.com/mkandziora/tropicalAlpineDelimitation/blob/main/images/Afroalpine.png" width="100%" /> 
+  <img src="https://github.com/mkandziora/tropicalAlpineDelimitation/blob/main/images/current_vs_MPI/tropalpAndes.png" width="100%" />
+  <img src="https://github.com/mkandziora/tropicalAlpineDelimitation/blob/main/images/current_vs_MPI/tropalpAsia.png" width="100%" /> 
+    <img src="https://github.com/mkandziora/tropicalAlpineDelimitation/blob/main/images/current_vs_MPI/Afroalpine.png" width="100%" /> 
 </p>
 
 
+**current vs MIROC**
+<p float="left">
+  <img src="https://github.com/mkandziora/tropicalAlpineDelimitation/blob/main/images/current_vs_MIROC/tropalpAndes.png" width="100%" />
+  <img src="https://github.com/mkandziora/tropicalAlpineDelimitation/blob/main/images/current_vs_MIROC/tropalpAsia.png" width="100%" /> 
+    <img src="https://github.com/mkandziora/tropicalAlpineDelimitation/blob/main/images/current_vs_MIROC/Afroalpine.png" width="100%" /> 
+</p>
 <!---
 
 
